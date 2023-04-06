@@ -125,7 +125,8 @@ h1{
         margin: 15px;
     }
 }
-footer{
+
+footer {
     background-color: #212529;
     height: 100%;
     width: 100%;
@@ -133,40 +134,40 @@ footer{
 
 }
 
-footer .nombre-logo{
+footer .nombre-logo {
     color: white;
     font-weight: bold;
     font-size: 2em;
 }
 
-footer .imagen_logo{
+footer .imagen_logo {
     height: 100px;
     transition: 0.9s ease all;
     border-radius: 50%;
 }
 
-footer .imagen_redes{
+footer .imagen_redes {
     width: 50px;
     transition: 0.5s ease all;
 }
 
-footer .imagen_redes:hover{
+footer .imagen_redes:hover {
     transform: scale(1.2);
     filter: brightness(1.2);
 }
 
-footer .imagen_logo:hover{
+footer .imagen_logo:hover {
     transform: scale(1.1);
 }
 
-footer ul{
+footer ul {
     list-style: none;
 }
 
-footer a{
+footer a {
     text-decoration: none;
 }
 
-footer .links:hover{
+footer .links:hover {
     text-decoration: underline;
 }
